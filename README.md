@@ -7,9 +7,9 @@
  - Optional: Mount GDrive
  - Optional: Use NGROK for SSH
 
-### **Video Tutorial**
+### **image**
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=xaDz3rxLu4I">
-    <img alt="Video Tutorial" src="http://img.youtube.com/vi/xaDz3rxLu4I/maxresdefault.jpg">
+  <a href="https://github.com/sadraphh/Free-vps">
+    <img alt="Video Tutorial" src="https://s3.eu-central-1.wasabisys.com/kirelos/wp-content/uploads/2022/08/16095133/google-colab-everything-you-need-to-know.jpeg">
   </a>
 </p>
